@@ -17,6 +17,8 @@ ngrok
 qbittorrent-nox
 rar & unrar
 p7zip (support almost every archive type except rar)
+fclone
+gclone
 ```
 - Import this repo (do not fork, otherwise you will not be able to make it private)
 > First go to https://github.com/new and fill **shell-bot** in **Repository name** field.
@@ -24,7 +26,7 @@ p7zip (support almost every archive type except rar)
 > Then click on **Create Repository**
 > Go to down and click on **Import code** and paste this :
 ```
-https://github.com/magneto261290/shell-bot
+https://github.com/roshanteam/shell-bot
 ```
 > Click on **Begin Import**
 > Wait for importing to be finished
